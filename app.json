@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "DropDown",
+    "slug": "DropDown",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
